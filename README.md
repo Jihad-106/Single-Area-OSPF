@@ -9,4 +9,4 @@ All routers are configured in **OSPF Area 0**.
 ---
 
 ## 🖥️ Topology
-
+![Network Topology](topology.png)
